@@ -1,0 +1,2 @@
+Aprendí a hacer consultas avanzadas desde Spring MVC usando JPQL.
+Ventajas: Las consultas son más especificas, lo que ahorra código.
